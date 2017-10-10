@@ -1,5 +1,11 @@
-class my
-{
- 	public static void Main(){
-		System.Console.WriteLine("Hello.world");}
+namespace XXX{
+	class My{
+		public My(){
+
+		//메인함수가없음
+		}
+		public void set(){
+	
+		}
+	}
 }

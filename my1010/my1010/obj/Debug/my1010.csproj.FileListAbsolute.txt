@@ -1,0 +1,6 @@
+C:\Users\ce-416-21\Desktop\dayoung\cp2\my1010\my1010\bin\Debug\my1010.exe.config
+C:\Users\ce-416-21\Desktop\dayoung\cp2\my1010\my1010\bin\Debug\my1010.exe
+C:\Users\ce-416-21\Desktop\dayoung\cp2\my1010\my1010\bin\Debug\my1010.pdb
+C:\Users\ce-416-21\Desktop\dayoung\cp2\my1010\my1010\obj\Debug\my1010.csprojResolveAssemblyReference.cache
+C:\Users\ce-416-21\Desktop\dayoung\cp2\my1010\my1010\obj\Debug\my1010.exe
+C:\Users\ce-416-21\Desktop\dayoung\cp2\my1010\my1010\obj\Debug\my1010.pdb
