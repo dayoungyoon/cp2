@@ -1,0 +1,9 @@
+C:\Users\ce-416-21\source\repos\my1114_1\my1114_1\bin\Debug\my1114_1.exe.config
+C:\Users\ce-416-21\source\repos\my1114_1\my1114_1\bin\Debug\my1114_1.exe
+C:\Users\ce-416-21\source\repos\my1114_1\my1114_1\bin\Debug\my1114_1.pdb
+C:\Users\ce-416-21\source\repos\my1114_1\my1114_1\obj\Debug\my1114_1.csprojResolveAssemblyReference.cache
+C:\Users\ce-416-21\source\repos\my1114_1\my1114_1\obj\Debug\my1114_1.csproj.CoreCompileInputs.cache
+C:\Users\ce-416-21\source\repos\my1114_1\my1114_1\obj\Debug\my1114_1.exe
+C:\Users\ce-416-21\source\repos\my1114_1\my1114_1\obj\Debug\my1114_1.pdb
+C:\Users\ce-416-21\source\repos\my1114_1\my1114_1\obj\Debug\hgd.MainForm.resources
+C:\Users\ce-416-21\source\repos\my1114_1\my1114_1\obj\Debug\my1114_1.csproj.GenerateResource.Cache
