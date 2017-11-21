@@ -1,0 +1,9 @@
+C:\Users\ce-416-21\source\repos\my1121\my1121\bin\Debug\my1121.exe.config
+C:\Users\ce-416-21\source\repos\my1121\my1121\bin\Debug\my1121.exe
+C:\Users\ce-416-21\source\repos\my1121\my1121\bin\Debug\my1121.pdb
+C:\Users\ce-416-21\source\repos\my1121\my1121\obj\Debug\my1121.csprojResolveAssemblyReference.cache
+C:\Users\ce-416-21\source\repos\my1121\my1121\obj\Debug\my1121.csproj.CoreCompileInputs.cache
+C:\Users\ce-416-21\source\repos\my1121\my1121\obj\Debug\my1121.exe
+C:\Users\ce-416-21\source\repos\my1121\my1121\obj\Debug\my1121.pdb
+C:\Users\ce-416-21\source\repos\my1121\my1121\obj\Debug\my1121.csproj.GenerateResource.Cache
+C:\Users\ce-416-21\source\repos\my1121\my1121\obj\Debug\XXX.MainForm.resources
